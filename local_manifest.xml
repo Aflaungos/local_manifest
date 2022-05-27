@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <manifest>
-
+ <remote name="me" 
+        fetch="https://github.com/Aflaungos" />
  <!-- Trees -->
- <project path="device/motorola/evert" name="Aflaungos/android_device_motorola_evert.git" remote="github" revision="crdroidandroid-12.1" />
- <project path="device/motorola/msm8953-common" name="Aflaungos/device_motorola_sdm660-common.git" remote="github" revision="crdroidandroid-12.1" />
- <project path="vendor/motorola" name="Aflaungos/vendor_motorola_evert.git" remote="github" revision="crdroidandroid-12.1" />
- <project path="kernel/motorola/evert" name="Aflaungos/android_kernel_motorola_msm8998.git" remote="github" revision="crdroidandroid-12.1" />
- 
+ <project path="device/motorola/evert" name="Aflaungos/android_device_motorola_evert.git" remote="me" revision="lineage-19.1" />
+ <project path="device/motorola/msm8953-common" name="Aflaungos/device_motorola_sdm660-common.git" remote="me" revision="lineage-19.1" />
+ <project path="vendor/motorola" name="Aflaungos/vendor_motorola_evert.git" remote="me" revision="twelve" />
+ <project path="kernel/motorola/evert" name="Aflaungos/kernel_motorola_msm8998.git" remote="me" revision="twelve" />
 </manifest>
