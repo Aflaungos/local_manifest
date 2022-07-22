@@ -10,5 +10,4 @@
  <!-- Dependencies -->
  <project path="external/bson" name="android_external_bson" remote="me" revision="lineage-19.1" />
  <project path="system/qcom" name="android_system_qcom" remote="me" revision="lineage-19.1" />
- <project path="vendor/motorola" name="proprietary_vendor_motorola" remote="me" revision="lineage-19.1" />
 </manifest>
