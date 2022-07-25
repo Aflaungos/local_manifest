@@ -2,15 +2,12 @@
 <manifest>
  <remote name="me" 
         fetch="https://github.com/Aflaungos" />
- <remote name="lineage" 
-        fetch="https://github.com/LineageOS" />
  <!-- Trees -->
- <project path="device/motorola/evert" name="android_device_motorola_evert" remote="me" revision="Fusion-OS" />
- <project path="device/motorola/sdm660-common" name="device_motorola_sdm660-common" remote="me" revision="lineage-19.1" />
- <project path="vendor/motorola" name="vendor_motorola_evert" remote="me" revision="twelve" />
- <project path="kernel/motorola/evert" name="kernel_motorola_msm8998" remote="me" revision="twelve" />
+ <project path="device/motorola/evert" name="android_device_motorola_evert" remote="me" revision="crdroidandroid-12.1" />
+ <project path="device/motorola/sdm660-common" name="device_motorola_sdm660-common" remote="me" revision="crdroidandroid-12.1" />
+ <project path="vendor/motorola" name="proprietary_vendor_motorola" remote="me" revision="lineage-19.1" />
+ <project path="kernel/motorola/msm8998" name="kernel_motorola_msm8998" remote="me" revision="twelve" />
  <!-- Dependencies -->
- <project path="external/bson" name="android_external_bson" remote="lineage" revision="lineage-19.1" />
- <project path="hardware/motorola" name="android_hardware_motorola" remote="lineage" revision="lineage-19.1" />
- <project path="system/qcom" name="android_system_qcom" remote="lineage" revision="lineage-19.1" />
+ <project path="external/bson" name="android_external_bson" remote="me" revision="lineage-19.1" />
+ <project path="hardware/motorola" name="android_hardware_motorola" remote="me" revision="lineage-19.1" />
 </manifest>
