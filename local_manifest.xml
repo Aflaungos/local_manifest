@@ -2,6 +2,8 @@
 <manifest>
  <remote name="me" 
         fetch="https://github.com/Aflaungos" />
+ <remote name="clang"
+          fetch="https://gitlab.com/Amritorock" />
  <!-- Trees -->
  <project path="device/samsung/m23xq" name="android_device_samsung_m23xq" remote="me" revision="lineage-19.1" />
  <project path="device/samsung/sm7225-common" name="android_device_samsung_sm7225-common" remote="me" revision="lineage-19.1" />
@@ -9,4 +11,6 @@
  <project path="vendor/samsung" name="android_vendor_samsung_sm7225-common" remote="me" revision="lineage-19.1" />
  <!-- Kernel -->
  <project path="kernel/samsung/m23xq" name="android_kernel_samsung_m23xq" remote="me" revision="4.19" />
+ <!-- Clang -->
+  <project path="prebuilts/clang/host/linux-x86/clang-r450784d" name="clang-r450784d" remote="clang" revision="master" clone-depth="1" />
 </manifest>
