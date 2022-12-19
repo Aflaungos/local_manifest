@@ -13,4 +13,6 @@
  <project path="kernel/samsung/m23xq" name="android_kernel_samsung_m23xq" remote="me" revision="Lineage19.1-ROM" />
  <!-- Clang -->
  <project path="prebuilts/clang/host/linux-x86/clang-r416183b1" name="android_prebuilts_clang_host_linux-x86_clang-r416183b1" remote="clang" revision="arrow-11.0" />
+ <!-- Hardware -->
+ <project name="android_hardware_samsung" path="hardware/samsung" remote="me" revision="lineage-19.1" />
 </manifest>
