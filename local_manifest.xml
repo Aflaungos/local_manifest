@@ -17,4 +17,6 @@
  <project path="prebuilts/clang/host/linux-x86/clang-r416183b1" name="android_prebuilts_clang_host_linux-x86_clang-r416183b1" remote="clang" revision="arrow-11.0" />
  <!-- Hardware -->
  <project name="android_hardware_samsung" path="hardware/samsung" remote="me" revision="lineage-19.1" />
+ <!-- ART -->
+ <project name="android_art" path="android/art" remote="me" revision="lineage-19.1" />
 </manifest>
