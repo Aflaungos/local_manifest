@@ -19,4 +19,6 @@
  <project name="android_hardware_samsung" path="hardware/samsung" remote="me" revision="lineage-19.1" />
  <!-- ART -->
  <project name="android_art" path="android/art" remote="me" revision="lineage-19.1" />
+ <!-- SYSTEMUI FIX -->
+ <project name="android_frameworks_base" path="frameworks/base" remote="me" revision="lineage-19.1" />
 </manifest>
