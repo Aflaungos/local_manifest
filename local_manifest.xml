@@ -6,10 +6,8 @@
         fetch="https://github.com/ZorEl212" />
  <remote name="clang"
           fetch="https://github.com/ArrowOS-Devices" />
- <remote  name="aosp"
-           fetch="https://android.googlesource.com"
-           review="android-review.googlesource.com"
-           revision="refs/tags/android-12.1.0_r22" />
+ <remote  name="aosp" 
+        fetch="https://android.googlesource.com/platform/art" />
  <!-- Trees -->
  <project path="device/samsung/m23xq" name="android_device_samsung_m23xq" remote="me" revision="lineage-19.1" />
  <project path="device/samsung/sm7225-common" name="android_device_samsung_sm7225-common" remote="me" revision="lineage-19.1" />
@@ -25,7 +23,7 @@
  
  <!-- LOCAL EDITS -->
  <!-- Remove android_art -->
- <remove-project path="art" name="platform/art" groups="pdk" remote="aosp" revision="refs/tags/android-12.1.0_r22" />
+ <remove-project path="art" name="platform/art" remote="aosp" revision="refs/tags/android-12.1.0_r22" />
  <!-- ART -->
  <project name="android_art" path="android/art" remote="me" revision="lineage-19.1" />
  <!-- Remove android_frameworks_base -->
