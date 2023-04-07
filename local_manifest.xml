@@ -14,4 +14,6 @@
  <project path="prebuilts/clang/host/linux-x86/clang-r416183b1" name="android_prebuilts_clang_host_linux-x86_clang-r416183b1" remote="clang" revision="arrow-11.0" />
  <!-- Hardware -->
  <project name="android_hardware_samsung" path="hardware/samsung" remote="me" revision="lineage-19.1" />
+ <!-- Sepolicy -->
+ <project name="LineageOS/android_device_samsung_slsi_sepolicy" path="device/samsung_slsi/sepolicy" remote="lineage-19.1" />
 </manifest>
