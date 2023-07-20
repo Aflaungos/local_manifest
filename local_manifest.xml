@@ -1,5 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <manifest>
+ <!-- Remotes -->
+ <remote name="me" 
+        fetch="https://github.com/Aflaungos" />
  <!-- Remove android_frameworks_base -->
  <remove-project name="platform/frameworks/base" />
  <!-- SCREEN FIX -->
