@@ -18,10 +18,6 @@
  <!-- Hardware -->
  <project name="android_hardware_samsung" path="hardware/samsung" remote="me" revision="lineage-19.1" />
  <!-- LOCAL EDITS -->
- <!-- Remove android_art -->
- <remove-project name="platform/art" />
- <!-- ART -->
- <project name="android_art" path="android/art" remote="me" revision="lineage-19.1" />
  <!-- Remove android_frameworks_base -->
  <remove-project name="LineageOS/android_frameworks_base" />
  <!-- SYSTEMUI FIX -->
