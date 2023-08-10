@@ -21,5 +21,5 @@
  <!-- Remove android_frameworks_base -->
  <remove-project name="LineageOS/android_frameworks_base" />
  <!-- SYSTEMUI FIX -->
- <project name="android_frameworks_base" path="frameworks/base" remote="me" revision="lineage-20" />
+ <project name="android_frameworks_base" path="frameworks/base" remote="me" revision="lineage-20.0" />
 </manifest>
