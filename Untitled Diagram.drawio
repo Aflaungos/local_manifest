@@ -1,0 +1,449 @@
+<mxfile host="app.diagrams.net" modified="2023-10-02T21:56:36.239Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36" etag="d0L5xTxLo_HJbBAw1YxY" version="22.0.1" type="github">
+  <diagram name="Page-1" id="JDBGXvTF86sGtzDHM9mI">
+    <mxGraphModel dx="9246" dy="4100" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="2uv-jfsWshkga22rRpQp-34" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="2uv-jfsWshkga22rRpQp-1" target="2uv-jfsWshkga22rRpQp-35">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="425" y="430" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="2uv-jfsWshkga22rRpQp-96" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="2uv-jfsWshkga22rRpQp-1" target="2uv-jfsWshkga22rRpQp-27">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="2uv-jfsWshkga22rRpQp-97" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="2uv-jfsWshkga22rRpQp-1" target="2uv-jfsWshkga22rRpQp-99">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="425" y="670" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="2uv-jfsWshkga22rRpQp-1" value="&lt;font style=&quot;font-size: 24px;&quot;&gt;Sistema de&lt;br&gt;utilidades&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#F19C99;" vertex="1" parent="1">
+          <mxGeometry x="365" y="500" width="120" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="2uv-jfsWshkga22rRpQp-102" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="2uv-jfsWshkga22rRpQp-2" target="2uv-jfsWshkga22rRpQp-103">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="990" y="720" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="2uv-jfsWshkga22rRpQp-2" value="Água" style="whiteSpace=wrap;html=1;rounded=1;fillColor=#C3ABD0;" vertex="1" parent="1">
+          <mxGeometry x="930" y="620" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="2uv-jfsWshkga22rRpQp-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="2uv-jfsWshkga22rRpQp-5" target="2uv-jfsWshkga22rRpQp-15">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="2uv-jfsWshkga22rRpQp-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="2uv-jfsWshkga22rRpQp-5" target="2uv-jfsWshkga22rRpQp-23">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="825" y="680" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="2uv-jfsWshkga22rRpQp-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="2uv-jfsWshkga22rRpQp-5" target="2uv-jfsWshkga22rRpQp-25">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="925" y="550" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="2uv-jfsWshkga22rRpQp-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="2uv-jfsWshkga22rRpQp-5" target="2uv-jfsWshkga22rRpQp-30">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="855" y="400" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="2uv-jfsWshkga22rRpQp-85" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="2uv-jfsWshkga22rRpQp-5" target="2uv-jfsWshkga22rRpQp-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="2uv-jfsWshkga22rRpQp-86" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="2uv-jfsWshkga22rRpQp-5" target="2uv-jfsWshkga22rRpQp-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="2uv-jfsWshkga22rRpQp-87" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="2uv-jfsWshkga22rRpQp-5" target="2uv-jfsWshkga22rRpQp-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="2uv-jfsWshkga22rRpQp-5" value="São exemplos de sistemas:" style="text;html=1;strokeColor=none;fillColor=#FFFFFF;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="540" y="520" width="60" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="2uv-jfsWshkga22rRpQp-101" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="2uv-jfsWshkga22rRpQp-8" target="2uv-jfsWshkga22rRpQp-100">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="2uv-jfsWshkga22rRpQp-8" value="Energia elétrica" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#C3ABD0;" vertex="1" parent="1">
+          <mxGeometry x="1320" y="420" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="2uv-jfsWshkga22rRpQp-104" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="2uv-jfsWshkga22rRpQp-12" target="2uv-jfsWshkga22rRpQp-105">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="990" y="370" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="2uv-jfsWshkga22rRpQp-12" value="Combustíveis" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#C3ABD0;" vertex="1" parent="1">
+          <mxGeometry x="930" y="420" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="2uv-jfsWshkga22rRpQp-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="2uv-jfsWshkga22rRpQp-15" target="2uv-jfsWshkga22rRpQp-21">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="762.5" y="740" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="2uv-jfsWshkga22rRpQp-15" value="Geração e distribuição" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#C3ABD0;" vertex="1" parent="1">
+          <mxGeometry x="657.5" y="620" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="2uv-jfsWshkga22rRpQp-106" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="2uv-jfsWshkga22rRpQp-18" target="2uv-jfsWshkga22rRpQp-107">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="910" y="900" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="2uv-jfsWshkga22rRpQp-18" value="Vapor" style="whiteSpace=wrap;html=1;rounded=1;fillColor=#D4E1F5;" vertex="1" parent="1">
+          <mxGeometry x="755" y="870" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="2uv-jfsWshkga22rRpQp-108" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="2uv-jfsWshkga22rRpQp-21" target="2uv-jfsWshkga22rRpQp-109">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="717.5" y="1050" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="2uv-jfsWshkga22rRpQp-21" value="Ar comprimido" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#D4E1F5;" vertex="1" parent="1">
+          <mxGeometry x="657.5" y="940" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="2uv-jfsWshkga22rRpQp-120" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="2uv-jfsWshkga22rRpQp-23" target="2uv-jfsWshkga22rRpQp-121">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1189.9999999999995" y="730" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="2uv-jfsWshkga22rRpQp-23" value="Detecção, alarme, e combate à incêndio" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#C3ABD0;" vertex="1" parent="1">
+          <mxGeometry x="1130" y="620" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="2uv-jfsWshkga22rRpQp-119" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="2uv-jfsWshkga22rRpQp-25" target="2uv-jfsWshkga22rRpQp-118">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="2uv-jfsWshkga22rRpQp-25" value="Ventilação, ar condicionando e refrigeração" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#C3ABD0;" vertex="1" parent="1">
+          <mxGeometry x="1320" y="620" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="2uv-jfsWshkga22rRpQp-114" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="2uv-jfsWshkga22rRpQp-27" target="2uv-jfsWshkga22rRpQp-115">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1700" y="550" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="2uv-jfsWshkga22rRpQp-27" value="Tratamento de efluentes industriais" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#C3ABD0;" vertex="1" parent="1">
+          <mxGeometry x="1520" y="520" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="2uv-jfsWshkga22rRpQp-112" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="2uv-jfsWshkga22rRpQp-30" target="2uv-jfsWshkga22rRpQp-113">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1190" y="370" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="2uv-jfsWshkga22rRpQp-30" value="Captação e supressão de pó" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#C3ABD0;" vertex="1" parent="1">
+          <mxGeometry x="1130" y="420" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="2uv-jfsWshkga22rRpQp-110" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="2uv-jfsWshkga22rRpQp-32" target="2uv-jfsWshkga22rRpQp-111">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="500" y="900" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="2uv-jfsWshkga22rRpQp-32" value="Oxigênio" style="whiteSpace=wrap;html=1;rounded=1;fillColor=#D4E1F5;" vertex="1" parent="1">
+          <mxGeometry x="560" y="870" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="2uv-jfsWshkga22rRpQp-37" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="2uv-jfsWshkga22rRpQp-42" target="2uv-jfsWshkga22rRpQp-36">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="2uv-jfsWshkga22rRpQp-39" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="2uv-jfsWshkga22rRpQp-35" target="2uv-jfsWshkga22rRpQp-38">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="2uv-jfsWshkga22rRpQp-71" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="2uv-jfsWshkga22rRpQp-35" target="2uv-jfsWshkga22rRpQp-36">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="2uv-jfsWshkga22rRpQp-35" value="Atividades da engenharia de projeto" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#9AC7BF;" vertex="1" parent="1">
+          <mxGeometry x="363" y="300" width="125" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="2uv-jfsWshkga22rRpQp-74" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="2uv-jfsWshkga22rRpQp-36" target="2uv-jfsWshkga22rRpQp-56">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="2uv-jfsWshkga22rRpQp-36" value="Desenhos de Detalhamento das Instalações" style="whiteSpace=wrap;html=1;rounded=1;fillColor=#99FFCC;" vertex="1" parent="1">
+          <mxGeometry x="-510" y="300" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="2uv-jfsWshkga22rRpQp-77" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="2uv-jfsWshkga22rRpQp-38" target="2uv-jfsWshkga22rRpQp-79">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="425" y="70" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="2uv-jfsWshkga22rRpQp-38" value="Definição dos sistemas a serem utilizados" style="whiteSpace=wrap;html=1;rounded=1;fillColor=#9AC7BF;" vertex="1" parent="1">
+          <mxGeometry x="365" y="160" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="2uv-jfsWshkga22rRpQp-43" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="2uv-jfsWshkga22rRpQp-42" target="2uv-jfsWshkga22rRpQp-44">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="280" y="269.9999999999999" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="2uv-jfsWshkga22rRpQp-45" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="2uv-jfsWshkga22rRpQp-42" target="2uv-jfsWshkga22rRpQp-46">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="210" y="430" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="2uv-jfsWshkga22rRpQp-47" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="2uv-jfsWshkga22rRpQp-42" target="2uv-jfsWshkga22rRpQp-48">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-110" y="249.9999999999999" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="2uv-jfsWshkga22rRpQp-49" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="2uv-jfsWshkga22rRpQp-42" target="2uv-jfsWshkga22rRpQp-50">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-110" y="399.9999999999999" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="2uv-jfsWshkga22rRpQp-51" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="2uv-jfsWshkga22rRpQp-42" target="2uv-jfsWshkga22rRpQp-52">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-300" y="410" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="2uv-jfsWshkga22rRpQp-124" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="2uv-jfsWshkga22rRpQp-44" target="2uv-jfsWshkga22rRpQp-125">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="100" y="140.00000000000023" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="2uv-jfsWshkga22rRpQp-44" value="Memórias de cálculo" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#99FFCC;" vertex="1" parent="1">
+          <mxGeometry x="40" y="189.9999999999999" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="2uv-jfsWshkga22rRpQp-126" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="2uv-jfsWshkga22rRpQp-46" target="2uv-jfsWshkga22rRpQp-127">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="100" y="520" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="2uv-jfsWshkga22rRpQp-46" value="Arranjos gerais" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#99FFCC;" vertex="1" parent="1">
+          <mxGeometry x="40" y="410" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="2uv-jfsWshkga22rRpQp-82" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="2uv-jfsWshkga22rRpQp-48" target="2uv-jfsWshkga22rRpQp-84">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-80" y="100" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="2uv-jfsWshkga22rRpQp-48" value="Especificações Técnicas de Equipamentos&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#99FFCC;" vertex="1" parent="1">
+          <mxGeometry x="-140" y="189.9999999999999" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="2uv-jfsWshkga22rRpQp-128" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="2uv-jfsWshkga22rRpQp-50" target="2uv-jfsWshkga22rRpQp-129">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-80" y="520" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="2uv-jfsWshkga22rRpQp-153" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="2uv-jfsWshkga22rRpQp-50" target="2uv-jfsWshkga22rRpQp-154">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="10" y="670" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="2uv-jfsWshkga22rRpQp-50" value="Relatório de Projeto Básico" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#99FFCC;" vertex="1" parent="1">
+          <mxGeometry x="-140" y="409.9999999999999" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="2uv-jfsWshkga22rRpQp-122" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="2uv-jfsWshkga22rRpQp-52" target="2uv-jfsWshkga22rRpQp-123">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-260" y="510" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="2uv-jfsWshkga22rRpQp-52" value="Balanço energético" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#99FFCC;" vertex="1" parent="1">
+          <mxGeometry x="-320" y="410" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="2uv-jfsWshkga22rRpQp-55" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="2uv-jfsWshkga22rRpQp-54" target="2uv-jfsWshkga22rRpQp-56">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-760" y="330" as="targetPoint" />
+            <mxPoint x="-510" y="330" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="2uv-jfsWshkga22rRpQp-57" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="2uv-jfsWshkga22rRpQp-54" target="2uv-jfsWshkga22rRpQp-58">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-840" y="249.9999999999999" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="2uv-jfsWshkga22rRpQp-59" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="2uv-jfsWshkga22rRpQp-54" target="2uv-jfsWshkga22rRpQp-60">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-840" y="389.9999999999999" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="2uv-jfsWshkga22rRpQp-61" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="2uv-jfsWshkga22rRpQp-54" target="2uv-jfsWshkga22rRpQp-62">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-1080" y="280" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="2uv-jfsWshkga22rRpQp-63" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="2uv-jfsWshkga22rRpQp-54" target="2uv-jfsWshkga22rRpQp-64">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-1020" y="370" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="2uv-jfsWshkga22rRpQp-67" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="2uv-jfsWshkga22rRpQp-54" target="2uv-jfsWshkga22rRpQp-68">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-1200" y="390" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="2uv-jfsWshkga22rRpQp-143" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="2uv-jfsWshkga22rRpQp-56" target="2uv-jfsWshkga22rRpQp-146">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-1590" y="330" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="2uv-jfsWshkga22rRpQp-56" value="Outras atividades" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFCE9F;" vertex="1" parent="1">
+          <mxGeometry x="-1440" y="300" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="2uv-jfsWshkga22rRpQp-130" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="2uv-jfsWshkga22rRpQp-58" target="2uv-jfsWshkga22rRpQp-131">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-840" y="170.00000000000023" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="2uv-jfsWshkga22rRpQp-58" value="Lista de Linhas" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFCE9F;" vertex="1" parent="1">
+          <mxGeometry x="-900" y="219.9999999999999" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="2uv-jfsWshkga22rRpQp-133" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="2uv-jfsWshkga22rRpQp-60" target="2uv-jfsWshkga22rRpQp-134">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-840" y="500" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="2uv-jfsWshkga22rRpQp-60" value="Isométricos" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFCE9F;" vertex="1" parent="1">
+          <mxGeometry x="-900" y="389.9999999999999" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="2uv-jfsWshkga22rRpQp-135" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="2uv-jfsWshkga22rRpQp-62" target="2uv-jfsWshkga22rRpQp-136">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-1020" y="170.00000000000023" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="2uv-jfsWshkga22rRpQp-62" value="Peças de Tubulações e Componentes não Padronizados&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFCE9F;" vertex="1" parent="1">
+          <mxGeometry x="-1080" y="220" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="2uv-jfsWshkga22rRpQp-137" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="2uv-jfsWshkga22rRpQp-64" target="2uv-jfsWshkga22rRpQp-138">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-1020" y="490" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="2uv-jfsWshkga22rRpQp-64" value="Suportes" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFCE9F;" vertex="1" parent="1">
+          <mxGeometry x="-1080" y="390" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="2uv-jfsWshkga22rRpQp-141" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="2uv-jfsWshkga22rRpQp-68" target="2uv-jfsWshkga22rRpQp-142">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-1200" y="500" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="2uv-jfsWshkga22rRpQp-68" value="Planta, Seções e Detalhes" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFCE9F;" vertex="1" parent="1">
+          <mxGeometry x="-1260" y="390" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="2uv-jfsWshkga22rRpQp-54" value="Tipos de desenhos/documentos:" style="text;html=1;strokeColor=none;fillColor=#FFFFFF;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-720" y="315" width="150" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="2uv-jfsWshkga22rRpQp-75" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="2uv-jfsWshkga22rRpQp-42" target="2uv-jfsWshkga22rRpQp-76">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-290" y="250" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="2uv-jfsWshkga22rRpQp-42" value="Elaboração de" style="text;html=1;strokeColor=none;fillColor=#FFFFFF;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="220" y="315" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="2uv-jfsWshkga22rRpQp-139" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="2uv-jfsWshkga22rRpQp-76" target="2uv-jfsWshkga22rRpQp-140">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-260" y="140.00000000000023" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="2uv-jfsWshkga22rRpQp-76" value="Listas de Materiais" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#99FFCC;" vertex="1" parent="1">
+          <mxGeometry x="-320" y="190" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="2uv-jfsWshkga22rRpQp-78" value="Gera o documento" style="text;html=1;strokeColor=none;fillColor=#FFFFFF;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="395" y="100" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="2uv-jfsWshkga22rRpQp-79" value="Relatório técnico" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFD966;" vertex="1" parent="1">
+          <mxGeometry x="365" y="-10" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="2uv-jfsWshkga22rRpQp-83" value="Gera o documento:" style="text;html=1;strokeColor=none;fillColor=#FFFFFF;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-120" y="140" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="2uv-jfsWshkga22rRpQp-84" value="Especificações técnicas" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFD966;" vertex="1" parent="1">
+          <mxGeometry x="-140" y="40" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="2uv-jfsWshkga22rRpQp-91" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="2uv-jfsWshkga22rRpQp-90" target="2uv-jfsWshkga22rRpQp-18">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="2uv-jfsWshkga22rRpQp-94" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="2uv-jfsWshkga22rRpQp-90" target="2uv-jfsWshkga22rRpQp-32">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="2uv-jfsWshkga22rRpQp-90" value="Exemplos:" style="text;html=1;strokeColor=none;fillColor=#FFFFFF;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="680" y="710" width="75" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="2uv-jfsWshkga22rRpQp-98" value="O que é?" style="text;html=1;strokeColor=none;fillColor=#FFFFFF;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="395.5" y="620" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="2uv-jfsWshkga22rRpQp-99" value="Sistema do qual fornece diversas fontes de energia para que as áreas da indústria possam atingir seus objetivos" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="365.5" y="690" width="120" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="2uv-jfsWshkga22rRpQp-100" value="Fornecimento de energia elétrica" style="whiteSpace=wrap;html=1;fillColor=#FFFFFF;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="1320" y="315" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="2uv-jfsWshkga22rRpQp-103" value="Pontos de abastecimento e consumo de água" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="930" y="730" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="2uv-jfsWshkga22rRpQp-105" value="Pontos de recebimento, abastecimento, e distribuição de combustíveis" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="930" y="295" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="2uv-jfsWshkga22rRpQp-107" value="Transporte de calor e energia entre locais distantes para gerar energia elétrica" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="920" y="865" width="120" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="2uv-jfsWshkga22rRpQp-109" value="Geração e distribuição de ar comprimido na planta industrial" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="657.5" y="1040" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="2uv-jfsWshkga22rRpQp-111" value="Geração e armazenamento de oxigênio líquido para consumo industrial" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="395" y="870" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="2uv-jfsWshkga22rRpQp-113" value="captação e eliminação de pó de processos industriais" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1130" y="315" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="2uv-jfsWshkga22rRpQp-115" value="Tratamento de efluente oleoso gerado por manutenções de equipamentos de todos os pontos abrangidos no processo" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1700" y="520" width="190" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="2uv-jfsWshkga22rRpQp-118" value="Condicionamento de ar e suas condições dependendo do local e das condições indicadas na ASHRAE Guide e NBR-6401" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1320" y="730" width="120" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="2uv-jfsWshkga22rRpQp-121" value="Detecção de incêndio por sensores, sinalizadores, e equipamentos de combate contra incêndio" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1130" y="730" width="120" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="2uv-jfsWshkga22rRpQp-123" value="Conjunto de dados numéricos que demonstram as quantidades e participações de energias e utilidades necessárias para o funcionamento da indútria" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-320" y="520" width="120" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="2uv-jfsWshkga22rRpQp-125" value="Execução dos cálculos para o dimensionamento das máquinas e instalações de cada sistema" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="40" y="50" width="120" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="2uv-jfsWshkga22rRpQp-127" value="Desenhos que mostram através de plantas e elevações os principais equipamentos de cada sistema de utilidades" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="40" y="520" width="120" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="2uv-jfsWshkga22rRpQp-129" value="Relatório técnico que descreve e justifica os arranjos e seleções adotados para o entendimento do projeto" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-140" y="520" width="120" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="2uv-jfsWshkga22rRpQp-131" value="Documento para a identificação das linhas de tubulação" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-900" y="120.00000000000023" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="2uv-jfsWshkga22rRpQp-134" value="Desenho contendo diagramas isométricos das tubulações" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-900" y="490" width="120" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="2uv-jfsWshkga22rRpQp-136" value="Desenho contendo o detalhamento para fabricação de peças de tubulação e componentes não padronizados" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-1080" y="80" width="120" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="2uv-jfsWshkga22rRpQp-138" value="Desenho contendo o detalhamento para fabricação ou construção de cada tipo de suporte para de tubulação" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-1080" y="490" width="120" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="2uv-jfsWshkga22rRpQp-140" value="Listas contendo quantidades, unidade aplicável, e especificações de todos os materiais utilizados no projeto de cada instalação" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-320" y="30" width="120" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="2uv-jfsWshkga22rRpQp-142" value="Desenho contendo informações gerais para a construção e montagem de equipamentos e tubulações" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-1260" y="490" width="120" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="2uv-jfsWshkga22rRpQp-147" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="2uv-jfsWshkga22rRpQp-145" target="2uv-jfsWshkga22rRpQp-148">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-1610" y="250.00000000000023" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="2uv-jfsWshkga22rRpQp-149" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="2uv-jfsWshkga22rRpQp-145" target="2uv-jfsWshkga22rRpQp-150">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-1610" y="390" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="2uv-jfsWshkga22rRpQp-145" value="Por exemplo:" style="text;html=1;strokeColor=none;fillColor=#FFFFFF;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-1540" y="315" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="2uv-jfsWshkga22rRpQp-146" value="Lista de motores" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FF99CC;" vertex="1" parent="1">
+          <mxGeometry x="-1850" y="300.0000000000002" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="2uv-jfsWshkga22rRpQp-148" value="Definição do sistema de controle e supervisão da instalação" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FF99CC;" vertex="1" parent="1">
+          <mxGeometry x="-1700" y="220.00000000000023" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="2uv-jfsWshkga22rRpQp-150" value="Estabelecimento de diagramas e quadros de carga preliminares" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FF99CC;" vertex="1" parent="1">
+          <mxGeometry x="-1700" y="380" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="2uv-jfsWshkga22rRpQp-154" value="Relatório técnico" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFD966;" vertex="1" parent="1">
+          <mxGeometry x="-50" y="715" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="2uv-jfsWshkga22rRpQp-155" value="Gera o documento" style="text;html=1;strokeColor=none;fillColor=#FFFFFF;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-20" y="650" width="60" height="30" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
