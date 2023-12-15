@@ -2,7 +2,7 @@
 <manifest>
  <remote name="me" 
         fetch="https://github.com/Aflaungos" />
- <remote name="LineageOS" 
+ <remote name="crdroid" 
         fetch="https://github.com/crdroidandroid" />
  <!-- Trees -->
  <project path="device/samsung/m23xq" name="android_device_samsung_m23xq" remote="me" revision="lineage-20" />
@@ -12,5 +12,5 @@
  <!-- Kernel -->
  <project path="kernel/samsung/m23xq" name="android_kernel_samsung_m23xq" remote="me" revision="thirteen" />
  <!-- Hardware -->
- <project path="hardware/samsung" name="android_hardware_samsung" remote="LineageOS" revision="13.0" />
+ <project path="hardware/samsung" name="android_hardware_samsung" remote="crdroid" revision="13.0" />
 </manifest>
