@@ -12,7 +12,7 @@
  <!-- Kernel -->
  <project path="kernel/samsung/m23xq" name="android_kernel_samsung_m23xq" remote="me" revision="thirteen" />
  <!-- Clang -->
- <project path="prebuilts/clang/host/linux-x86/clang_10.0.0" name="Clang_10.0.0" remote="me" revision="master" />
+ <project path="prebuilts/clang/host/linux-x86/clang_10.0.0" name="Clang_10.0.0" remote="me" revision="main" />
  <!-- Hardware -->
  <project path="hardware/samsung" name="android_hardware_samsung" remote="LineageOS" revision="lineage-20" />
 </manifest>
