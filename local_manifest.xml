@@ -10,7 +10,7 @@
  <!-- Vendor -->
  <project path="vendor/samsung" name="android_vendor_samsung_sm7225-common" remote="me" revision="lineage-20" />
  <!-- Kernel -->
- <project path="kernel/samsung/m23xq" name="android_kernel_samsung_m23xq" remote="me" revision="thirteen-initial" />
+ <project path="kernel/samsung/m23xq" name="android_kernel_samsung_m23xq" remote="me" revision="thirteen" />
  <!-- Clang -->
  <project path="prebuilts/clang/host/linux-x86/clang_10.0.0" name="Clang_10.0.0" remote="me" revision="main" />
  <!-- Hardware -->
