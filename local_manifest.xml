@@ -4,6 +4,8 @@
         fetch="https://github.com/Aflaungos" />
  <remote name="LineageOS" 
         fetch="https://github.com/LineageOS" />
+ <remote name="crdroid" 
+        fetch="https://github.com/crdroidandroid" />
  <!-- Trees -->
  <project path="device/samsung/m23xq" name="android_device_samsung_m23xq" remote="me" revision="lineage-20" />
  <project path="device/samsung/sm7225-common" name="android_device_samsung_sm7225-common" remote="me" revision="lineage-20" />
@@ -12,7 +14,7 @@
  <!-- Kernel -->
  <project path="kernel/samsung/m23xq" name="android_kernel_samsung_m23xq" remote="me" revision="thirteen" />
  <!-- Clang -->
- <project path="prebuilts/clang/host/linux-x86/clang_10.0.0" name="Clang_10.0.0" remote="me" revision="main" />
+ <project path="prebuilts/clang/host/linux-x86/" name="android_prebuilts_clang_host_linux-x86_clang-6032204" remote="crdroid" revision="10.0" />
  <!-- Hardware -->
  <project path="hardware/samsung" name="android_hardware_samsung" remote="LineageOS" revision="lineage-20" />
 </manifest>
