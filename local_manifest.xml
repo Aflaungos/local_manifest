@@ -13,6 +13,8 @@
  <project path="vendor/samsung" name="android_vendor_samsung_sm7225-common" remote="me" revision="lineage-20" />
  <!-- Kernel -->
  <project path="kernel/samsung/m23xq" name="android_kernel_samsung_m23xq" remote="me" revision="thirteen" />
+ <!-- Remove LOS Clang -->
+ <remove-project name="platform/prebuilts/clang/host/linux-x86" />
  <!-- Clang -->
  <project path="prebuilts/clang/host/linux-x86/" name="android_prebuilts_clang_host_linux-x86_clang-6032204" remote="crdroid" revision="10.0" />
  <!-- Hardware -->
