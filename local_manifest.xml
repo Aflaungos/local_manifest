@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <manifest>
- <remote name="atharv" 
-        fetch="https://github.com/samsung-m23xq" />
+ <remote name="me" 
+        fetch="https://github.com/Aflaungos" />
  <!-- Trees -->
- <project path="device/samsung/m23xq" name="android_device_samsung_m23xq" remote="atharv" revision="lineage-21" />
- <!-- Prebuilt Kernel -->
- <project path="device/samsung/m23xq-kernel" name="android_device_samsung_m23xq-kernel" remote="atharv" revision="lineage-21" />
+ <project path="device/samsung/m23xq" name="android_device_samsung_m23xq1" remote="me" revision="lineage-21" />
+ <!-- Kernel -->
+ <project path="device/samsung/m23xq-kernel" name="android_kernel_samsung_sm7225" remote="me" revision="lineage-21" />
  <!-- Vendor -->
- <project path="vendor/samsung/m23xq" name="android_vendor_samsung_m23xq" remote="atharv" revision="lineage-21" />
+ <project path="vendor/samsung/m23xq" name="android_vendor_samsung_m23xq1" remote="me" revision="lineage-21" />
  <!-- Hardware -->
  <project path="hardware/samsung" name="android_hardware_samsung" remote="LineageOS" revision="lineage-21" />
 </manifest>
