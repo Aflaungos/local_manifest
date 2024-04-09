@@ -13,4 +13,9 @@
  <project path="kernel/samsung/m23xq" name="android_kernel_samsung_sm7225" remote="me" revision="lineage-20.0" />
  <!-- Hardware -->
  <project path="hardware/samsung" name="android_hardware_samsung" remote="LineageOS" revision="lineage-20" />
+ <!-- Fix Touch -->
+ <!-- Remove android_frameworks_base -->
+ <remove-project name="LineageOS/android_frameworks_base" />
+ <!-- SYSTEMUI FIX -->
+ <project name="android_frameworks_base" path="frameworks/base" remote="me" revision="lineage-20.0" />
 </manifest>
