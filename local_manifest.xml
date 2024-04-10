@@ -14,7 +14,6 @@
  <!-- LOCAL EDITS for TOUCH FIX -->
  <!-- Remove android_frameworks_base -->
  <remove-project name="LineageOS/android_frameworks_base" />
- <remove-project name="LineageOS/android_hardware_samsung" />
  <!-- Local Repos -->
  <project path="frameworks/base" name="android_frameworks_base" remote="me" revision="lineage-20.0" />
  <project path="hardware/samsung" name="android_hardware_samsung" remote="me" revision="lineage-20" />
