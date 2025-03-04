@@ -12,4 +12,6 @@
  <!-- Kernel -->
  <project path="kernel/samsung/m23xq" name="android_kernel_samsung_sm7225" remote="me" revision="lineage-22.1" />
  <project path="hardware/samsung" name="android_hardware_samsung" remote="LineageOS" revision="lineage-22.1" />
+ <!-- For gralloc.lito -->
+ <project path="hardware/qcom-caf/sm8250/display" name="hardware-qcom-caf-sm8250-display" remote="me" revision="lineage-22.1-caf-sm8250" />
 </manifest>
